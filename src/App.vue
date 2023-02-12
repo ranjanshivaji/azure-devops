@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Generate Model inference With ML</h1>
+    <h1 style="color:blue;">Generate Model inference With ML on azure app</h1>
 	<h2>Upload your data to make to ge predections</h2>
     <img
       alt="Vue logo"
